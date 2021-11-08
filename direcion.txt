@@ -1,0 +1,1 @@
+"C:\Users\Usuario\AppData\Local\Programs\Python\Python39\Lib\site-packages\esptool-3.0-py3.9.egg-info"
